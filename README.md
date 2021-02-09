@@ -1,5 +1,5 @@
 # ArtilleryGeniusCuraProfile
 
-Version 4.6.1
+Version 4.7
 
-Copied from 3dnexus forum
+Copied from https://www.thingiverse.com/thing:4581098/files

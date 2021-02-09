@@ -7,6 +7,13 @@
         "machine_width": { "default_value": 220 },
         "machine_depth": { "default_value": 220 },
         "machine_height": { "default_value": 250 },
+        "machine_head_polygon": { "default_value": [
+                [-26, 34],
+                [-26, -32],
+                [32, -32],
+                [32, 34]
+            ]
+        },
         "machine_head_with_fans_polygon": { "default_value": [
                 [-26, 34],
                 [-26, -32],
@@ -21,8 +28,7 @@
     "metadata": {
         "quality_definition": "artillery_base",
         "visible": true,
-        "platform": "artillery_genius.stl",
+		"platform": "artillery_genius.stl",
         "platform_offset": [ -0, -72, -20]
-
     }
 }
